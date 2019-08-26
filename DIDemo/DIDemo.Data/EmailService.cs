@@ -10,6 +10,7 @@ namespace DIDemo.Data
     {
         public void Send(string message)
         {
+            //this is test
             // Send the message
         }
     }
